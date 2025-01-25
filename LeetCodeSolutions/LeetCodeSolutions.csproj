@@ -8,9 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Problems\Problem0014_LongestCommonPrefix\" />
     <Folder Include="Shared\" />
-    <Folder Include="Tests\Problem0014_LongestCommonPrefixTests\" />
   </ItemGroup>
 
 </Project>
